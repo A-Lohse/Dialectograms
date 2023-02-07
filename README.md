@@ -1,11 +1,9 @@
-#Contextual Embeddings and EDM translation
+# Dialectograms
  
-In this project, we use the Earth Mover Distance to explore how different words translate between copora.
-
-
-
-More info to come
+This repository contains additional plots related to the paper *Dialectograms: Machine Learning Differences between Linguistic Communities*.
 
 Authors: 
 Thyge Enggaard
-August Lohse 
+August Lohse
+Morten Axel Pedersen
+Sune Lehmann 
