@@ -1,8 +1,9 @@
 # Ignore all by default
 *
 
-# Keep gitignore
+# Keep selected files
 !.gitignore
+!README.md
 
 # Keep appendix plots
 !./plots/appendix/*
